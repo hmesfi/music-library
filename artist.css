@@ -1,17 +1,17 @@
 musiclibrary {
-    font-size:80%;
-    margin:0.5em;
+    font-size: 80%;
+    margin: 0.5em;
     font-family: Verdana;
-    display:block;
+    display: block;
 }
 
 song { 
     background-color: #7BEEF5;
     width: 100%;
+    display: block;
 }
 
 title, artist, genre, year {
-    display: block;
     text-align: center;
 }
 
