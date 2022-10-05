@@ -7,10 +7,10 @@ musiclibrary {
 
 song { 
     background-color: #7BEEF5;
-    width: 100%;
+    width: 35%;
+    margin: auto;
     display: block;
     border: 1px solid black;
-    margin:0.5em; 
     padding:0.5em; 
     }
 
