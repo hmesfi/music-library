@@ -22,7 +22,14 @@ title {
     font-size: 20px;
 }
 
-artist, genre, year {
+genre {
+    color: #4176F5;
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+artist, year {
     color: black;
     font-size: 18px;
 }
