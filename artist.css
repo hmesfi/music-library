@@ -1,0 +1,21 @@
+song { 
+    background-color: #7BEEF5
+    width: 100%;
+}
+
+title, artist, genre, year {
+    display: block;
+    text-align: center;
+}
+
+title {
+    color: #4176F5;
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+artist, genre, year {
+    color: black;
+    font-size: 18px;
+}
